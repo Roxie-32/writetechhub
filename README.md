@@ -3,7 +3,7 @@
 In this guide, you will learn how to use Google Authenticator to implement Time based One-Time Password (TOTP) specified in [RFC 6238.](https://datatracker.ietf.org/doc/html/rfc6238) which uses HMAC-Based One-Time Password Algorithm (HOTP) specified in [RFC 4226](https://datatracker.ietf.org/doc/html/rfc4226) in building an authentication system.
 
 
-We will be using [this package](https://github.com/antonioribeiro/google2fa) to implement the [Google Two-Factor Authentication](https://github.com/antonioribeiro/google2fa) on our Laravel Application....**[Read More](https://dev.to/roxie/how-to-add-google-s-two-factor-authentication-to-a-laravel-8-application-4jjp)**
+We will be using [this package](https://github.com/antonioribeiro/google2fa) to implement the [Google Two-Factor Authentication](https://github.com/antonioribeiro/google2fa) on our Laravel Application....
 
 ## What is Two Factor Authentication (2FA)?
 Two-factor authentication (2FA) strengthens access security by requiring two methods to verify users identities.

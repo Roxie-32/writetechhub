@@ -4,9 +4,10 @@ Audience Analysis in Technical Writing
 
 ### Introduction
 
+![Audience Analysis](https://assets-global.website-files.com/5f7178312623813d346b8936/631b3dd927d33849daa12077_image21.png)
 Have you ever encountered an article on a trusted website that left you confused? The language might seem overly technical, or the concepts poorly explained. This frustration often stems from a lack of **audience analysis**. 
 
-In technical writing, the audience can vary greatly in terms of skill and knowledge.  People seek technical information for diverse reasons.  Effective technical writing requires considering your audience at every stage. 
+In [technical writing](https://www.indeed.com/career-advice/career-development/technical-writing#:~:text=Technical%20writing%20is%20a%20form,computer%20applications%20or%20medical%20procedures.), the audience can vary greatly in terms of skill and knowledge.  People seek technical information for diverse reasons.  Effective technical writing requires considering your audience at every stage. 
 
 For example, imagine a user searching for a software installation guide. They're likely a regular user, not an engineer. A guide filled with technical jargon would be overwhelming and lose their interest. 
 
@@ -18,19 +19,19 @@ Technical writing involves breaking down complex topics into clear, concise, and
 
 **Why is Audience Analysis Important?**
 
-Clarity and Comprehension: Audience analysis ensures your writing is clear and easily understood by your target audience. 
+- Clarity and Comprehension: Audience analysis ensures your writing is clear and easily understood by your target audience. 
 Engagement and Retention:  Understanding your audience's needs helps create engaging content that keeps them reading. 
-Achieving Goals:  By tailoring your writing to your audience, you increase the likelihood of achieving the document's intended purpose.
-Cultural Sensitivity: Audience analysis can reveal cultural or communication preferences, allowing you to adapt your writing accordingly. 
+- Achieving Goals:  By tailoring your writing to your audience, you increase the likelihood of achieving the document's intended purpose.
+- Cultural Sensitivity: Audience analysis can reveal cultural or communication preferences, allowing you to adapt your writing accordingly. 
 
 **Types of Audiences in Technical Writing**
 
 Technical writing caters to a variety of audiences, each requiring a specific approach:
 
-Experts: Deep understanding of the subject matter.
-Technicians:  Practical knowledge for applying technical skills.
-Executives: High-level overview of key concepts and implications. 
-Non-specialists:  Basic understanding of the topic with minimal technical jargon.
+- Experts: Deep understanding of the subject matter.
+- Technicians:  Practical knowledge for applying technical skills.
+- Executives: High-level overview of key concepts and implications. 
+- Non-specialists:  Basic understanding of the topic with minimal technical jargon.
 
 **How to Conduct an Audience Analysis:**
 
